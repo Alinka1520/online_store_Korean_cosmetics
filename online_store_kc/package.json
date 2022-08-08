@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "react-simple-image-slider": "^2.4.1"
+  }
+}
